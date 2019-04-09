@@ -13,5 +13,9 @@ namespace LaptopStore.Controllers
         {
             return View();
         }
+        public ActionResult Dangki()
+        {
+            return View();
+        }
     }
 }
